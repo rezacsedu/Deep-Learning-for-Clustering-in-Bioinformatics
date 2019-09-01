@@ -1,6 +1,6 @@
-# Deep Clustering: methods and implements
+# Deep learning-based clustering methods, paper link, and and implemenations 
 
-|    Paper    |  Conference  |  Code |
+|    Paper    |  Conference/Journal  |  Code |
 |  :---------  | :------:  | :------: |
 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  IEEE ACCESS 2018  |  |
 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
