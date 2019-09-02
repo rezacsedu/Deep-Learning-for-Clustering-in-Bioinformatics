@@ -24,8 +24,8 @@
 |      Imporved Deep Embedding Clustering(IDEC) | [Link](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI'2017  |  [GitHub](https://github.com/XifengGuo/IDEC),[Pytorch]) |
 | Deep Clustering Network(DCN) | [Link](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv'2016 | [GitHub](https://github.com/boyangumn/DCN-New) | N/A|
 | Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE) | [Link](https://arxiv.org/pdf/1604.03628.pdf) | CVPR'2016 |   [GitHub](https://github.com/jwyang/JULE.torch) |
-| Deep Embedding Network for Clustering(DEN) [Link](https://ieeexplore.ieee.org/document/6976982/) | ICPR'2014 | N/A|
-| Auto-encoder Based Data Clustering(ABDC) [Link](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP'2013 |  [GitHub](https://github.com/KellerJordan/Autoencoder-Clustering) |
+| Deep Embedding Network for Clustering(DEN) | [Link](https://ieeexplore.ieee.org/document/6976982/) | ICPR'2014 | N/A|
+| Auto-encoder Based Data Clustering(ABDC) | [Link](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP'2013 |  [GitHub](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | Learning Deep Representations for Graph Clustering | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI'2014 | [GitHub](https://github.com/quinngroup/deep-representations-clustering) |
 
 ## Contribute
