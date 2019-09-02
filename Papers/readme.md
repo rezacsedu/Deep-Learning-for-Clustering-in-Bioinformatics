@@ -3,7 +3,7 @@
 |    Title    |  Link to article  |  Conference/Journal name | Code |
 |  :---------  | :------:  | :------: | :------: |
 |  A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  IEEE ACCESS 2018  |  |
-|  GEMSEC: Graph Embedding with Self Clustering  | [Link] https://arxiv.org/pdf/1802.03997.pdf | Arxiv,2018  | [GitHub](https://github.com/benedekrozemberczki/GEMSEC) |
+|  GEMSEC: Graph Embedding with Self Clustering  | [Link] (https://arxiv.org/pdf/1802.03997.pdf) | Arxiv,2018  | [GitHub](https://github.com/benedekrozemberczki/GEMSEC) |
 |  Clustering with Deep Learning: Taxonomy and New Methods | [Link](https://arxiv.org/pdf/1801.07648.pdf)  |  Arxiv, 2018 |  [GitHub](https://github.com/elieJalbout/Clustering-with-Deep-learning)  |
 | Deep Continuous Clustering(DCC) | [Link](https://arxiv.org/pdf/1803.01449.pdf) | Arxiv, 2018 | [GitHub](https://github.com/shahsohil/DCC) |
 | Deep Clustering with Convolutional Autoencoders(DCEC) | [Link](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | ICONIP'2018 | [GitHub](https://github.com/XifengGuo/DCEC) |
