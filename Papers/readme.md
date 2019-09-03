@@ -1,4 +1,4 @@
-## Deep learning-based unsupervised/clustering methods, paper link, and and implemenations 
+## Deep learning-based unsupervised/clustering methods, link to papers, and implemenations 
 
 |    Title    |  Link to article  |  Conference/Journal name | Code |
 |  :---------  | :------:  | :------: | :------: |
