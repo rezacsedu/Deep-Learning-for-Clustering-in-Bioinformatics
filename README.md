@@ -47,9 +47,11 @@ For the Jupyter notebook, git it from this [Link](https://jupyter.readthedocs.io
 git clone https://github.com/rezacsedu/DL_Clustering_Bioinformatics.git
 ```
 Alternatively, install all the required libraries by issuing the following command: 
-`cd DL_Clustering_Bioinformatics
+```
+ cd DL_Clustering_Bioinformatics
  pip3 install -r requirements.txt
- cd Notebboks/`
+ cd Notebboks
+ ```
 
 Then start Jupyter notebbok by issuing the following command: 
 ```
