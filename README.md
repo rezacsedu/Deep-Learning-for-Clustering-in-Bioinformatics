@@ -25,7 +25,7 @@ Code and supplementary materials for our paper titled "Analyses of Deep Learning
 |  Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering | [Link](https://arxiv.org/pdf/1610.04794.pdf)  |  PMLR'2017  |  N/A  |
 | Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE) | [Link](https://arxiv.org/pdf/1611.02648.pdf)| ICLR'2017 | [GitHub](https://github.com/Nat-D/GMVAE)| N/A |
 |  Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering | [Link](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS'2017 Workshop  |  [GitHub](https://github.com/jariasf/clustering-nips-2017)  |
-|      Imporved Deep Embedding Clustering(IDEC) | [Link](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI'2017  |  [GitHub](https://github.com/XifengGuo/IDEC),[Pytorch]) |
+|      Imporved Deep Embedding Clustering(IDEC) | [Link](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI'2017  |  [GitHub](https://github.com/XifengGuo/IDEC) |
 | Deep Clustering Network(DCN) | [Link](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv'2016 | [GitHub](https://github.com/boyangumn/DCN-New) | N/A|
 | Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE) | [Link](https://arxiv.org/pdf/1604.03628.pdf) | CVPR'2016 |   [GitHub](https://github.com/jwyang/JULE.torch) |
 | Deep Embedding Network for Clustering(DEN) | [Link](https://ieeexplore.ieee.org/document/6976982/) | ICPR'2014 | N/A|
@@ -73,4 +73,4 @@ If you use the code of this repository in your research, please consider citing 
     }
 
 ### Contributing
-If you find more related work, which are not listed here, please create a PR or sugest by filing issues. Your contribution will be highly appreciated. For any questions, feel free to open an issue or contact at rezaul.karim@rwth-aachen.de
+If you find more related work, which are not listed here, please create a PR or sugest by filing issues. Your contribution will be highly appreciated. For any questions, feel free to open an issue or contact at rezaul.karim@rwth-aachen.de. 
