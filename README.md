@@ -36,7 +36,6 @@ Code and supplementary materials for our paper titled "Analyses of Deep Learning
 To run the examples interactively, you need to install some Python modules and libraries. 
 
 * Python 3
-* PySpark
 * Scikit-learn
 * Keras 
 * TensorFlow.
