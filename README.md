@@ -47,7 +47,9 @@ For the Jupyter notebook, git it from this [Link](https://jupyter.readthedocs.io
 git clone https://github.com/rezacsedu/DL_Clustering_Bioinformatics.git
 ```
 Alternatively, install all the required libraries by issuing the following command: 
+`cd DL_Clustering_Bioinformatics`
 `pip3 install -r requirements.txt`
+`cd Notebboks/`
 
 Then start Jupyter notebbok by issuing the following command: 
 ```
@@ -55,7 +57,7 @@ jupyter notebook
 ```
 In the opened browser, go to Jupyter tab and window open the notebook. 
 ```
-Keras-DEC.ipynb
+LSTM_AE_Text_Clustering.ipynb
 ```
 If you want to skip the training, soon we'll provide the pre-trained weights, which you can restore and start fine-tuning. Happy coding! Leave a comment if you have any question.
 
