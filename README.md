@@ -1,5 +1,5 @@
-### Analyses of Deep Learning-based Clustering for Bioinformatics
-Code and supplementary materials for our paper titled "Analyses of Deep Learning-based Clustering for Bioinformatics" submitted to Briefings in Bioinformatics journal. 
+## Analyses of Deep Learning-based Clustering for Bioinformatics
+Code and supplementary materials for our paper titled "Analyses of Deep Learning-based Clustering for Bioinformatics" submitted to Briefings in Bioinformatics journal. This repo will be updated peridically. In particular, more complete Jupyter notebooks will be added. 
 
 ### Deep learning-based unsupervised/clustering methods, link to papers, and implemenations 
 
@@ -32,34 +32,32 @@ Code and supplementary materials for our paper titled "Analyses of Deep Learning
 | Auto-encoder Based Data Clustering(ABDC) | [Link](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP'2013 |  [GitHub](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | Learning Deep Representations for Graph Clustering | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI'2014 | [GitHub](https://github.com/quinngroup/deep-representations-clustering) |
 
-### Requirements
+## Running provided Jupyter notebooks
+To run the examples interactively, you need to install some Python modules and libraries. 
+
 * Python 3
 * PySpark
 * Scikit-learn
 * Keras 
 * TensorFlow.
 
-## How to Run
-Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) and [Jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed
-### Clone or download this repo
+For the Jupyter notebook, git it from this [Link](https://jupyter.readthedocs.io/en/latest/install.html) and install it on your machine. Then clone this repo using following command, given that you have already installed the `git`: 
+
 ```
 git clone https://github.com/rezacsedu/DL_Clustering_Bioinformatics.git
 ```
-### Install required libraries
+Alternatively, install all the required libraries by issuing the following command: 
 `pip3 install -r requirements.txt`
 
-In the project start a command line run
+Then start Jupyter notebbok by issuing the following command: 
 ```
 jupyter notebook
 ```
-In the opened browser window open
+In the opened browser, go to Jupyter tab and window open the notebook. 
 ```
 Keras-DEC.ipynb
 ```
-If you want to skip the training, you can try the pre-trained weights from the releases, [results.zip](https://github.com/Tony607/Keras_Deep_Clustering/releases/download/V0.1/results.zip). Extract 
-`results` folders to the root of the project directory.
-
-Happy coding! Leave a comment if you have any question.
+If you want to skip the training, soon we'll provide the pre-trained weights, which you can restore and start fine-tuning. Happy coding! Leave a comment if you have any question.
 
 ### Citation request
 If you use the code of this repository in your research, please consider citing the folowing papers:
