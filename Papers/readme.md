@@ -1,7 +1,8 @@
-## Deep learning-based clustering methods, paper link, and and implemenations 
+## Deep learning-based unsupervised/clustering methods, paper link, and and implemenations 
 
 |    Title    |  Link to article  |  Conference/Journal name | Code |
 |  :---------  | :------:  | :------: | :------: |
+| Unsupervised Data Augmentation for Consistency Training(UDA) | [Link](https://arxiv.org/pdf/1904.12848.pdf) | Arxiv'2019 |  [GitHub](https://github.com/google-research/uda) |
 | Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT) | [Link](https://arxiv.org/pdf/1704.06327.pdf) | ICCV'2017 |  [GitHub](https://github.com/herandy/DEPICT) |
 | Discriminatively Boosted Clustering(DBC) | [Link](https://arxiv.org/pdf/1703.07980.pdf) | Arxiv'2017 | N/A|
 | Variational Deep Embedding(VADE) | [Link](https://arxiv.org/pdf/1611.05148.pdf) | IJCAI'2017 |  [GitHub](https://github.com/slim1017/VaDE) |
