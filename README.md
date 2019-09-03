@@ -3,7 +3,7 @@ Code and supplementary materials for our paper titled "Analyses of Deep Learning
 
 ### Deep learning-based unsupervised/clustering methods, link to papers, and implemenations 
 
-|    Title    |  Article  |  Conference/Journal name | Code |
+|    Title    |  Article  |  Conference/Journal | Code |
 |  :---------  | :------:  | :------: | :------: |
 | Unsupervised Data Augmentation for Consistency Training(UDA) | [Link](https://arxiv.org/pdf/1904.12848.pdf) | Arxiv'2019 |  [GitHub](https://github.com/google-research/uda) |
 | Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT) | [Link](https://arxiv.org/pdf/1704.06327.pdf) | ICCV'2017 |  [GitHub](https://github.com/herandy/DEPICT) |
