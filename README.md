@@ -1,5 +1,5 @@
 ## Deep Learning-based Clustering Approaches for Bioinformatics
-Code and supplementary materials for our paper titled "Deep Learning-based Clustering Approaches for Bioinformatics" submitted to Briefings in Bioinformatics journal. This repo will be updated peridically. In particular, more complete Jupyter notebooks will be added. 
+Code and supplementary materials for our paper titled "Deep Learning-based Clustering Approaches for Bioinformatics" submitted to Briefings in Bioinformatics journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added. 
 
 ### Deep learning-based unsupervised/clustering methods, link to papers, and implemenations 
 
