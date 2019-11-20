@@ -1,8 +1,7 @@
 ## Deep Learning-based Clustering Approaches for Bioinformatics
-Code and supplementary materials for our paper titled "Deep Learning-based Clustering Approaches for Bioinformatics" submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added and new approaches will be listed down. 
+Codes and supplementary materials for our paper "Deep Learning-based Clustering Approaches for Bioinformatics" submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added and new approaches/ppaer will be listed. 
 
 ### Deep learning-based unsupervised/clustering methods, link to papers, and codes
-
 |    Title    |  Article  |  Conference/Journal | Code |
 |  :---------  | :------:  | :------: | :------: |
 | Deep clustering with convolutional autoencoders (DCEC) | [Link](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | ICONIP'2017 |  [GitHub](https://github.com/XifengGuo/DCEC) |
