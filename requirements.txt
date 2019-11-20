@@ -5,3 +5,10 @@ scipy
 matplotlib
 sklearn
 seaborn
+pandas
+gzip
+skimage  
+PIL
+_pickle
+gensim
+collections 
