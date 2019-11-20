@@ -1,10 +1,11 @@
 ## Deep Learning-based Clustering Approaches for Bioinformatics
-Code and supplementary materials for our paper titled "Deep Learning-based Clustering Approaches for Bioinformatics" submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added. 
+Code and supplementary materials for our paper titled "Deep Learning-based Clustering Approaches for Bioinformatics" submitted to [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added and new approaches will be listed down. 
 
-### Deep learning-based unsupervised/clustering methods, link to papers, and implemenations 
+### Deep learning-based unsupervised/clustering methods, link to papers, and their implemenations/code
 
 |    Title    |  Article  |  Conference/Journal | Code |
 |  :---------  | :------:  | :------: | :------: |
+| Deep clustering with convolutional autoencoders(DCEC) | [Link](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | ICONIP'2017 |  [GitHub](https://github.com/XifengGuo/DCEC) |
 | Unsupervised Data Augmentation for Consistency Training(UDA) | [Link](https://arxiv.org/pdf/1904.12848.pdf) | Arxiv'2019 |  [GitHub](https://github.com/google-research/uda) |
 | Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT) | [Link](https://arxiv.org/pdf/1704.06327.pdf) | ICCV'2017 |  [GitHub](https://github.com/herandy/DEPICT) |
 | Discriminatively Boosted Clustering(DBC) | [Link](https://arxiv.org/pdf/1703.07980.pdf) | Arxiv'2017 | N/A|
@@ -43,11 +44,11 @@ To run the examples interactively, you need to install some Python modules and l
 For the Jupyter notebook, git it from this [Link](https://jupyter.readthedocs.io/en/latest/install.html) and install it on your machine. Then clone this repo using following command, given that you have already installed the `git`: 
 
 ```
-git clone https://github.com/rezacsedu/DL_Clustering_Bioinformatics.git
+git clone https://github.com/rezacsedu/Deep-learning-for-clustering-in-bioinformatics.git
 ```
 Alternatively, install all the required libraries by issuing the following command: 
 ```
- cd DL_Clustering_Bioinformatics
+ cd Deep-learning-for-clustering-in-bioinformatics
  pip3 install -r requirements.txt
  cd Notebboks
  ```
@@ -66,7 +67,7 @@ If you want to skip the training, soon we'll provide the pre-trained weights, wh
 If you use the code of this repository in your research, please consider citing the folowing papers:
 
     @inproceedings{karimBIB2019,
-        title={Analyses of Deep Learning-based Clustering for Bioinformatics},
+        title={Deep Learning-based Clustering Approaches for Bioinformatics},
         author=Md. Rezaul Karim, Michael Cochez, Achille Zappa, Ivan G. Costa, Oya Beyan, Dietrich Rebholz-Schuhmann, and Stefan Decker},
         journal={Briefings in Bioinformatics journal},
         year={2019}
