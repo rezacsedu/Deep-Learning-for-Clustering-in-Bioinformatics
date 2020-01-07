@@ -6,7 +6,7 @@
 | Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization (DEPICT) | [Link](https://arxiv.org/pdf/1704.06327.pdf) | ICCV'2017 |  [GitHub](https://github.com/herandy/DEPICT) |
 | Discriminatively Boosted Clustering (DBC) | [Link](https://arxiv.org/pdf/1703.07980.pdf) | Arxiv'2017 | N/A|
 | Variational Deep Embedding (VADE) | [Link](https://arxiv.org/pdf/1611.05148.pdf) | IJCAI'2017 |  [GitHub](https://github.com/slim1017/VaDE) |
-| Convolutional Deep Embedding Clustering (CDEC} | [Link](https://arxiv.org/pdf/1805.12218.pdf) | Arxiv'2018 |  [GitHub](https://github.com/rezacsedu/Recurrent-Deep-Embedding-Networks) |
+| Convolutional Embedded Networks (CEN)} | [Link](https://arxiv.org/pdf/1805.12218.pdf) | Arxiv'2018 |  [GitHub](https://github.com/rezacsedu/Convolutional-embedded-networks) |
 | Deep Subspace Clustering Networks (DSC-Nets) | [Link](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) | NIPS'2017 |[GitHub](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 | Graph Clustering with Dynamic Embedding (GRACE) | [Link](https://arxiv.org/pdf/1712.08249.pdf) | Arxiv'2017 | N/A |
 | Deep Unsupervised Clustering Using Mixture of Autoencoders (MIXAE) | [Link](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv'2017 |N/A |
