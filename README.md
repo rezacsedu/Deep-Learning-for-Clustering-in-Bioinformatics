@@ -1,5 +1,5 @@
 ## Deep Learning-based Clustering Approaches for Bioinformatics
-Codes and supplementary materials for our paper "Deep Learning-based Clustering Approaches for Bioinformatics" has been accepted for publication in [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added and new approaches/paper will be listed. 
+Codes and supplementary materials for our paper "Deep Learning-based Clustering Approaches for Bioinformatics" published in [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added. Besides new approaches and paper will be listed too. 
 
 In this article, we reviewed deep learning-based approaches for cluster analysis, including network training, representation learning, parameter optimization, and formulating clustering quality metrics. We also discussed how representation learning based on different autoencoder architectures (e.g., vanilla, variational, LSTM, and convolutional) can be more effective than machine learning-based approaches (e.g., PCA) in different scenarios, e.g., bio-imaging, gene expression clustering, and clustering biomedical texts. 
 
@@ -71,11 +71,11 @@ The ClusteringLayer class and the target_distribution function are based on DEC 
 ### Citation request
 If you use the code of this repository in your research, please consider citing the folowing papers:
 
-    @inproceedings{karimBIB2020,
-        title={Deep Learning-based Clustering Approaches for Bioinformatics},
-        author=Md. Rezaul Karim, Oya Beyan, Achille Zappa, Ivan G. Costa, Dietrich Rebholz-Schuhmann, Michael Cochez, and Stefan Decker},
-        journal={Briefings in Bioinformatics},
-        year={2020}
+    @article{karim2020deep,
+     title={Deep learning-based clustering approaches for bioinformatics},
+     author={Karim, Md Rezaul and Beyan, Oya and Zappa, Achille and Costa, Ivan G and Rebholz-Schuhmann, Dietrich and Cochez, Michael and Decker, Stefan},
+     journal={Briefings in Bioinformatics},
+     year={2020}
     }
 
 ### Contributing
