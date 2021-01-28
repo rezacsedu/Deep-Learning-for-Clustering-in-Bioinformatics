@@ -1,7 +1,7 @@
 ## Deep Learning-based Clustering Approaches for Bioinformatics
 Codes and supplementary materials for our paper "Deep Learning-based Clustering Approaches for Bioinformatics" published in [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added. In this article, we reviewed deep learning-based approaches for cluster analysis, including network training, representation learning, parameter optimization, and formulating clustering quality metrics. We also discussed how representation learning based on different autoencoder architectures (e.g., vanilla, variational, LSTM, and convolutional) can be more effective than ML-based approaches (e.g., PCA) in different scenarios, e.g., bio-imaging, gene expression clustering, and clustering biomedical texts. 
 
-## Deep learning-based unsupervised/clustering methods, link to papers & codes
+### Deep learning-based unsupervised/clustering methods, link to papers & codes
 We provide the list of deep learning-based unsupervised/clustering methods, link to papers, and codes. Besides, new articles proposing approaches and paper will be listed. So stay tuned! 
 
 | Title    |  Article  |  Conference/Journal | Code |
@@ -34,7 +34,7 @@ We provide the list of deep learning-based unsupervised/clustering methods, link
 | Auto-encoder Based Data Clustering (ABDC) | [Link](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP'2013 |  [GitHub](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | Learning Deep Representations for Graph Clustering | [Link](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI'2014 | [GitHub](https://github.com/quinngroup/deep-representations-clustering) |
 
-## Running provided Jupyter notebooks
+### Running provided Jupyter notebooks
 To run the examples interactively, you need to install some Python modules and libraries. 
 
 * Python 3
