@@ -1,10 +1,12 @@
 ## Deep Learning-based Clustering Approaches for Bioinformatics
-Codes and supplementary materials for our paper "Deep Learning-based Clustering Approaches for Bioinformatics" published in [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added. Besides new approaches and paper will be listed too. 
+Codes and supplementary materials for our paper "Deep Learning-based Clustering Approaches for Bioinformatics" published in [Briefings in Bioinformatics](https://academic.oup.com/bib) journal. This repo will be updated periodically. In particular, more complete Jupyter notebooks will be added. 
 
 In this article, we reviewed deep learning-based approaches for cluster analysis, including network training, representation learning, parameter optimization, and formulating clustering quality metrics. We also discussed how representation learning based on different autoencoder architectures (e.g., vanilla, variational, LSTM, and convolutional) can be more effective than ML-based approaches (e.g., PCA) in different scenarios, e.g., bio-imaging, gene expression clustering, and clustering biomedical texts. 
 
-### Deep learning-based unsupervised/clustering methods, link to papers, and codes
-|    Title    |  Article  |  Conference/Journal | Code |
+## Deep learning-based unsupervised/clustering methods, link to papers, and codes: 
+We provide the list of deep learning-based unsupervised/clustering methods, link to papers, and codes. Besides, new articles proposing approaches and paper will be listed. So stay tuned! 
+
+| Title    |  Article  |  Conference/Journal | Code |
 |  :---------  | :------:  | :------: | :------: |
 | Deep clustering with convolutional autoencoders (DCEC) | [Link](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf) | ICONIP'2017 |  [GitHub](https://github.com/XifengGuo/DCEC) |
 | Unsupervised Data Augmentation for Consistency Training (UDA) | [Link](https://arxiv.org/pdf/1904.12848.pdf) | Arxiv'2019 |  [GitHub](https://github.com/google-research/uda) |
